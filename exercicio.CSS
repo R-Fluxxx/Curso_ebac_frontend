@@ -1,0 +1,205 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Meu portal de Notícias</title>
+        <link rel="stylesheet" href="/main.css"/>
+
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <h1>Meu Portal de Notícias</h1>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#esportes" title="Ir para seção de esportes">Esportes</a>
+                    </li>
+                    <li>
+                        <a href="#economia" title="Ir para seção de Economia">Economia</a>
+                    </li>
+                    <li>
+                        <a href="#games" title="Ir para seção de Games">Games</a>
+                    </li>
+                    <li>
+                        <a href="#tecnologia" title="Ir para seção de Tecnologia">Tecnologia</a>
+                    </li>
+                </ul>
+            </nav>
+            </div>
+        </header>
+        <section id="esportes">
+            <div class="container">
+                <h2>Esportes</h2>
+            <div class="artigos">
+                <article>
+                    <img src="/cristiano ronaldo.png" alt="Cristiano Ronaldo">
+                    <header>
+                        <time time class="creation-date">23/08/2022 23:37</time>
+                    </header>
+                    <h3>Grande classico na noite de hoje</h3>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>    
+                <article>
+                    <img src="/super-bowl-lv.jpg" alt="super bowl">
+                    <header>
+                        <time class="creation-date">23/08/2022 23:37</time>
+                    </header>
+                    <h3>Noite de super bowl</h3>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="/neymar.jpg" alt="copa do mundo">
+                    <header>
+                        <time time class="creation-date">23/08/2022 23:37</time>
+                    </header>
+                    <h3>Notícias da Copa</h3>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="/nba.png" alt="NBA grande duelo">
+                    <header>
+                        <time time class="creation-date">23/08/2022 23:37</time>
+                    </header>
+                    <h3>NBA grande duelo</h3>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+            </div>
+        </section>    
+            <section id="economia">
+                    <div class="container">
+                        <h2>Economia</h2>    
+                    <div class="artigos">
+                        <article>
+                        <img src="/dollar.jpg" alt="Queda no dollar">
+                        <header>
+                            <time time class="creation-date">23/08/2022 23:37</time>
+                        </header>
+                        <h3>Queda no Dollar</h3>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                        </p>
+                        <a href="#" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                    <article>
+                        <img src="/petroleo.png" alt="Petroleo nos EUA">
+                        <header>
+                            <time time class="creation-date">23/08/2022 23:37</time>
+                        </header>
+                        <h3>Petroleo nos EUA</h3>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                        </p>
+                        <a href="#" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                    <article>
+                        <img src="/vinhos_vac_abr_2907221153.jpg" alt="Vendas no pos pandemia">
+                        <header>
+                            <time time class="creation-date">23/08/2022 23:37</time>
+                        </header>
+                        <h3>Vendas no pós-pandemia</h3>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                        </p>
+                        <a href="#" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                </div>
+                </div>
+        </section>   
+        <section id="games">
+            <div class="container">
+                <h2>Games</h2> 
+                <div class="artigos">
+                    <article>
+                        <img src="/the-lords-of-the-fallen_(2).jpg" alt="The Lords of the Fallen">
+                        <header>
+                            <time time class="creation-date">23/08/2022 23:37</time>
+                        </header>
+                        <h3>Novo The Lords of the Fallen é anunciado</h3>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                        </p>
+                        <a href="#" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                    <article>
+                        <img src="/spider-man-remastered.png" alt="Marvel's Spider-Man Remastered">
+                        <header>
+                            <time time class="creation-date">23/08/2022 23:37</time>
+                        </header>
+                        <h3>Marvel's Spider-Man Remastered</h3>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                        </p>
+                        <a href="#" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                    <article>
+                        <img src="/atomic-heart_(2).jpg" alt="atomic-heart">
+                        <header>
+                            <time time class="creation-date">23/08/2022 23:37</time>
+                        </header>
+                        <h3>Atomic Heart ganha trailer</h3>
+                        <p>
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                        </p>
+                        <a href="#" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                </div>
+            </div>
+        </section>
+        <section id="tecnologia">
+            <div class="container">
+                <h2>Tecnologia</h2>    
+            <div class="artigos">
+                <article>
+                    <img src="/corsair.png" alt="corsair">
+                    <header>
+                        <time time class="creation-date">23/08/2022 23:37</time>
+                    </header>
+                    <h3>Corsair mostra prévia da próxima geração</h3>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="/Basilisk_V3_Pro_083.png" alt="Razer anuncia Basilisk V3 Pro">
+                    <header>
+                        <time time class="creation-date">23/08/2022 23:37</time>
+                    </header>
+                    <h3>Razer anuncia Basilisk V3 Pro</h3>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="/ryzen.jpg" alt="CPU AMD Ryzen 7 7700X">
+                    <header>
+                        <time time class="creation-date">23/08/2022 23:37</time>
+                    </header>
+                    <h3>CPU AMD Ryzen 7 7700X</h3>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus sed eveniet totam nulla mollitia tenetur veniam modi dolores iste temporibus. Ipsam, illum! Quis maiores eius cum qui nemo reprehenderit fugit.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+            </div>
+        </section>
+    </body>
+    </html>
